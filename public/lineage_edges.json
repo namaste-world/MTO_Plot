@@ -1,0 +1,1874 @@
+[
+  {
+    "source": "analyzing-music-under-the-new-musicological-regime",
+    "target": "response-to-plenary-session",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-david-schiff-the-music-of-elliott-carter-2nd-ed",
+    "target": "after-the-harvest-carters-fifth-string-quartet-and-the-late-late-style",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "after-the-harvest-carters-fifth-string-quartet-and-the-late-late-style",
+    "target": "review-of-guy-capuzzo-elliott-carters-what-next-communication-cooperation-and-separation-u",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "music-theory-and-analysis-in-france-and-belgium",
+    "target": "toward-a-post-schoenbergian-grammar-of-tonal-and-pre-tonal-harmonic-progressions",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-allen-forte-the-atonal-music-of-anton-webern",
+    "target": "music-evolution-and-the-ladder-of-progress",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "music-evolution-and-the-ladder-of-progress",
+    "target": "review-of-m-j-grant-serial-music-serial-aesthetics-compositional-theory-in-post-war-europe",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-m-j-grant-serial-music-serial-aesthetics-compositional-theory-in-post-war-europe",
+    "target": "conference-report-euromac-9",
+    "type": "lineage",
+    "yearGap": 14
+  },
+  {
+    "source": "conference-report-euromac-9",
+    "target": "cages-imitation-game-cheap-imitation-and-song-books-through-the-sketches",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "on-getting-deconstructed",
+    "target": "analysis-description-and-what-really-happens",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "responses-to-plenary-session-papers-necmt-2000",
+    "target": "the-founding-of-the-society-for-music-theory",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "lessons-from-the-past-music-theory-pedagogy-and-the-future",
+    "target": "ambiguity-another-listen",
+    "type": "lineage",
+    "yearGap": 12
+  },
+  {
+    "source": "ambiguity-another-listen",
+    "target": "a-cognitive-basis-for-choosing-a-solmization-system",
+    "type": "lineage",
+    "yearGap": 9
+  },
+  {
+    "source": "tolling-time",
+    "target": "review-of-alexander-rehding-hugo-riemann-and-the-birth-of-modern-musical-thought-cambridge",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "bartoks-change-of-time-coming-unfixed",
+    "target": "stepping-out-hearing-balanchine",
+    "type": "lineage",
+    "yearGap": 17
+  },
+  {
+    "source": "toward-a-semiotic-evaluation-of-music-analyses",
+    "target": "response-to-comments",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "response-to-comments",
+    "target": "review-of-christopher-f-hasty-meter-as-rhythm-new-york-and-oxford-oxford-university-press-",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-christopher-f-hasty-meter-as-rhythm-new-york-and-oxford-oxford-university-press-",
+    "target": "pulse-streams-and-problems-of-grouping-and-metrical-dissonance-in-bartoks-with-drums-and-p",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "pulse-streams-and-problems-of-grouping-and-metrical-dissonance-in-bartoks-with-drums-and-p",
+    "target": "a-transformational-space-structuring-the-counterpoint-in-adess-auf-dem-wasser-zu-singen",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "a-transformational-space-structuring-the-counterpoint-in-adess-auf-dem-wasser-zu-singen",
+    "target": "constructing-transformational-signification-gesture-and-agency-in-bartoks-scherzo-op-14-no",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "constructing-transformational-signification-gesture-and-agency-in-bartoks-scherzo-op-14-no",
+    "target": "introduction",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "introduction",
+    "target": "interactions-of-folk-melody-and-transformational-discontinuities-in-chen-yis-ba-ban-1999",
+    "type": "lineage",
+    "yearGap": 11
+  },
+  {
+    "source": "between-process-and-product-music-andas-performance",
+    "target": "reply-to-robert-cantrick",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "reply-to-robert-cantrick",
+    "target": "prompting-performance-text-script-and-analysis-in-bryn-harrisons-etre-temps",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "prompting-performance-text-script-and-analysis-in-bryn-harrisons-etre-temps",
+    "target": "introduction-refocusing-theory",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "the-deconstruction-of-musicology-poison-or-cure",
+    "target": "intonational-injustice-a-defense-of-just-intonation-in-the-performance-of-renaissance-poly",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "intonational-injustice-a-defense-of-just-intonation-in-the-performance-of-renaissance-poly",
+    "target": "review-of-adam-krims-rap-music-and-the-poetics-of-identity-cambridge-university-press-2000",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "from-similarity-to-distance-from-simplicity-to-complexity-from-pitches-to-intervals-from-d",
+    "target": "reply-to-smoliars-mathematical-logic",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "reply-to-smoliars-mathematical-logic",
+    "target": "practical-aspects-of-marchettos-tuning",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "practical-aspects-of-marchettos-tuning",
+    "target": "conference-report-symposium-on-neo-riemannian-theory-state-university-of-new-york-at-buffa",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "conference-report-symposium-on-neo-riemannian-theory-state-university-of-new-york-at-buffa",
+    "target": "was-mesopotamian-tuning-diatonic-a-parsimonious-answer",
+    "type": "lineage",
+    "yearGap": 21
+  },
+  {
+    "source": "performance-and-hypermetric-transformation-an-extension-of-the-lerdahl-jackendoff-theory",
+    "target": "solutions-to-the-great-nineteenth-century-rhythm-problem-in-horowitzs-recording-of-the-the",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "review-of-bryan-simms-the-atonal-music-of-arnold-schoenberg-1908-1923-new-york-oxford-2000",
+    "target": "reviews-of-neil-lerner-and-joseph-straus-editors-sounding-off-theorizing-disability-in-mus",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "reviews-of-neil-lerner-and-joseph-straus-editors-sounding-off-theorizing-disability-in-mus",
+    "target": "review-of-ethan-haimo-schoenbergs-transformation-of-musical-language-new-york-cambridge-un",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-david-ferris-schumanns-eichendorff-liederkreis-and-the-genre-of-the-romantic-cyc",
+    "target": "review-of-danuta-mirka-metric-manipulations-in-haydn-and-mozart-chamber-music-for-strings-",
+    "type": "lineage",
+    "yearGap": 9
+  },
+  {
+    "source": "review-of-danuta-mirka-metric-manipulations-in-haydn-and-mozart-chamber-music-for-strings-",
+    "target": "treading-robert-schumanns-new-path-understanding-declamation-in-the-late-lieder-through-an",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "figured-bass-and-modulation-the-wiener-tonschule-of-joseph-preindl",
+    "target": "species-counterpoint-with-a-moveable-tenor-scamet-comparing-species-counterpoint-and-polyp",
+    "type": "lineage",
+    "yearGap": 11
+  },
+  {
+    "source": "towards-a-typology-of-minimalist-tropes",
+    "target": "clean-as-a-whistle-timbral-trajectories-and-the-modern-musical-sublime",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "clean-as-a-whistle-timbral-trajectories-and-the-modern-musical-sublime",
+    "target": "review-of-matthew-brown-debussy-redux-the-impact-of-his-music-on-popular-culture-indiana-u",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "smt-at-25-a-view-from-the-balance-sheet",
+    "target": "review-of-matthew-bribitzer-stull-anthology-for-analysis-and-performance-oxford-university",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "review-of-embodied-voices-representing-female-vocality-in-western-culture-edited-by-leslie",
+    "target": "review-of-ellie-m-hisama-gendering-musical-modernism-the-music-of-ruth-crawford-marion-bau",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "review-of-ellie-m-hisama-gendering-musical-modernism-the-music-of-ruth-crawford-marion-bau",
+    "target": "review-essay-on-suzannah-clark-and-alexander-rehding-eds-music-in-time-phenomenology-perce",
+    "type": "lineage",
+    "yearGap": 16
+  },
+  {
+    "source": "the-role-of-set-class-identity-in-the-estimation-of-chords",
+    "target": "discrimination-and-evaluation-of-trichords",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "a-review-of-the-2003-american-mathematical-society-spring-southeastern-section-conference-",
+    "target": "a-gap-tutorial-for-transformational-music-theory",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "beyond-words-the-moving-body-as-a-tool-for-musical-understanding",
+    "target": "chopins-prelude-in-c-major-revisited-integrating-sound-and-symbol",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "on-keeping-the-score",
+    "target": "keynote-address-twenty-sixth-annual-smt-conference-coming-home",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "keynote-address-twenty-sixth-annual-smt-conference-coming-home",
+    "target": "response-to-the-2004-smt-special-session-performance-and-analysis-views-from-theory-musico",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "response-to-the-2004-smt-special-session-performance-and-analysis-views-from-theory-musico",
+    "target": "response-to-mike-cheng-yu-lee",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "response-to-mike-cheng-yu-lee",
+    "target": "response-to-reddick",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "response-to-reddick",
+    "target": "one-more-time-on-beethovens-tempest-from-analytic-and-performance-perspectives-a-response-",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "one-more-time-on-beethovens-tempest-from-analytic-and-performance-perspectives-a-response-",
+    "target": "response",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "josquins-ave-maria-musica-ficta-versus-mode",
+    "target": "mode-versus-ficta-in-context",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "mode-versus-ficta-in-context",
+    "target": "j-s-bachs-prelude-and-fugue-in-e-flat-bwv-55212-an-inspiration-of-the-heart",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "j-s-bachs-prelude-and-fugue-in-e-flat-bwv-55212-an-inspiration-of-the-heart",
+    "target": "quid-non-ebrietas-dissignat-willaerts-didactic-demonstration-of-syntonic-tuning",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "quid-non-ebrietas-dissignat-willaerts-didactic-demonstration-of-syntonic-tuning",
+    "target": "syntonic-tuning-a-sixteenth-century-composers-soundscape",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "syntonic-tuning-a-sixteenth-century-composers-soundscape",
+    "target": "syntonic-tuning-creating-a-model-for-accurate-electronic-playback",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "syntonic-tuning-creating-a-model-for-accurate-electronic-playback",
+    "target": "models-for-chord-doubling-and-spacing-which-ones-dont-we-need",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "authenticity-appropriation-signification-tori-amos-on-gender-race-and-violence-in-covers-o",
+    "target": "feeling-the-style-vocal-gesture-and-musical-expression-in-billie-holiday-bessie-smith-and-",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "feeling-the-style-vocal-gesture-and-musical-expression-in-billie-holiday-bessie-smith-and-",
+    "target": "female-subjectivities-in-the-words-music-and-images-of-progressive-metal-the-case-of-tatia",
+    "type": "lineage",
+    "yearGap": 18
+  },
+  {
+    "source": "interval-classes-and-psychological-space",
+    "target": "mapping-the-geometries-of-pitch-class-set-similarity-measures-via-multidimensional-scaling",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-ethan-haimos-article-atonality-analysis-and-the-intentional-fallacy-music-theory",
+    "target": "binary-oppositions-in-arnold-whittalls-exploring-twentieth-century-music-tradition-and-inn",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "sublimating-sharp-4-an-exercise-in-schenkerian-energetics",
+    "target": "plays-of-opposing-motion-contra-structural-melodic-impulses-in-voice-leading-analysis",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "introduction",
+    "target": "review-of-berthold-hoeckner-programming-the-absolute-nineteenth-century-german-music-and-t",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-berthold-hoeckner-programming-the-absolute-nineteenth-century-german-music-and-t",
+    "target": "musical-forces-and-agential-energies-an-expansion-of-steve-larsons-model",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "musical-forces-and-agential-energies-an-expansion-of-steve-larsons-model",
+    "target": "wordless-carol",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "wordless-carol",
+    "target": "performing-expressive-closure-in-structurally-open-contexts-chopins-prelude-in-a-minor-and",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "performing-expressive-closure-in-structurally-open-contexts-chopins-prelude-in-a-minor-and",
+    "target": "review-of-matthew-riley-the-viennese-minor-key-symphony-in-the-age-of-haydn-and-mozart-oxf",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-beatlestudies-3-proceedings-of-the-beatles-2000-conference-jyvaskyla-finland-uni",
+    "target": "listening-to-performers-writings-and-recordings-an-analysis-of-debussys-colloque-sentiment",
+    "type": "lineage",
+    "yearGap": 11
+  },
+  {
+    "source": "response-to-janet-schmalfeldts-response",
+    "target": "virtuosity-in-babbitts-lonely-flute",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "virtuosity-in-babbitts-lonely-flute",
+    "target": "the-performers-voice-performance-and-analysis-in-ravels-concerto-pour-la-main-gauche",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "the-performers-voice-performance-and-analysis-in-ravels-concerto-pour-la-main-gauche",
+    "target": "webs-and-snares-multiple-references-in-babbitts-homily-and-beaten-paths",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "webs-and-snares-multiple-references-in-babbitts-homily-and-beaten-paths",
+    "target": "analysis-and-performance-or-wissen-konnen-kennen",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "analysis-and-performance-or-wissen-konnen-kennen",
+    "target": "review-of-jeffrey-swinkin-performative-analysis-reimagining-music-theory-for-performance-u",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-jeffrey-swinkin-performative-analysis-reimagining-music-theory-for-performance-u",
+    "target": "smts-interest-groups-a-synopsis",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "the-tristan-chord-in-historical-context-a-response-to-john-rothgeb",
+    "target": "like-falling-off-a-log-rubato-in-chopins-prelude-in-a-major-op-28-no-17",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "like-falling-off-a-log-rubato-in-chopins-prelude-in-a-major-op-28-no-17",
+    "target": "common-tone-tonality-in-italian-romantic-opera-an-introduction",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-walter-everett-the-beatles-as-musicians-the-quarry-men-through-rubber-soul-new-y",
+    "target": "perform-ing-rock-a-response",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "perform-ing-rock-a-response",
+    "target": "fragile-emergent-and-absent-tonics-in-pop-and-rock-songs",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "serial-intervention-in-nonos-il-canto-sospeso",
+    "target": "francescos-dream-musical-logic-in-landinis-three-voice-ballate",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-david-yearsley-bach-and-the-meanings-of-counterpoint-cambridge-cambridge-univers",
+    "target": "sometimes-the-music-wins-text-and-music-in-a-willaert-madrigal",
+    "type": "lineage",
+    "yearGap": 15
+  },
+  {
+    "source": "sometimes-the-music-wins-text-and-music-in-a-willaert-madrigal",
+    "target": "willaerts-elusive-counterpoint-explained",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "a-musical-gesture-of-growing-obstinacy",
+    "target": "the-interruption-fill-and-corollary-procedures",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "the-interruption-fill-and-corollary-procedures",
+    "target": "continuous-question-answer-pairs",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "the-major-tritone-progression-in-recent-hollywood-science-fiction-films",
+    "target": "considering-network-recursion-and-bartoks-fourths",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "considering-network-recursion-and-bartoks-fourths",
+    "target": "cohns-platonic-model-and-the-regular-irregularities-of-recent-popular-multimedia",
+    "type": "lineage",
+    "yearGap": 9
+  },
+  {
+    "source": "cohns-platonic-model-and-the-regular-irregularities-of-recent-popular-multimedia",
+    "target": "three-audiovisual-correspondences-in-the-main-title-for-vertigo",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "review-of-syntagma-musicum-iii-by-michael-praetorius-translated-and-edited-by-jeffery-t-ki",
+    "target": "pie-jesu",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "the-power-of-anacrusis-engendered-feeling-in-groove-based-musics",
+    "target": "response-to-fernando-benadon",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "response-to-fernando-benadon",
+    "target": "variant-timekeeping-patterns-and-their-effects-in-jazz-drumming",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "reaction-to-comments-on-the-mto-01-essay",
+    "target": "the-contredanse-classical-finales-and-caplins-formal-functions",
+    "type": "lineage",
+    "yearGap": 13
+  },
+  {
+    "source": "commentary-on-matthew-w-butterfields-the-power-of-anacrusis",
+    "target": "a-circular-plot-for-rhythm-visualization-and-analysis",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "bruno-madernas-serial-arrays",
+    "target": "review-of-theodor-w-adorno-kranichsteiner-vorlesungen-edited-by-klaus-reichert-and-michael",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "review-of-theodor-w-adorno-kranichsteiner-vorlesungen-edited-by-klaus-reichert-and-michael",
+    "target": "gesture-through-the-lens-of-pluridimensional-serialism-in-the-music-of-camillo-togni",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "some-remarks-on-the-use-of-riemann-transformations",
+    "target": "reconsidering-klumpenhouwer-networks-a-response",
+    "type": "lineage",
+    "yearGap": 13
+  },
+  {
+    "source": "k-nets-and-hierarchical-structural-recursion-further-considerations",
+    "target": "middleground-structure-in-the-cadenza-to-boulezs-eclat",
+    "type": "lineage",
+    "yearGap": 12
+  },
+  {
+    "source": "commentary-on-neumeyers-mto-01-essay",
+    "target": "embracing-relational-abundance",
+    "type": "lineage",
+    "yearGap": 14
+  },
+  {
+    "source": "listening-to-the-music-itself-breaking-through-the-shell-of-elliott-carters-in-genesis",
+    "target": "exploring-tetrachordal-voice-leading-spaces-within-and-around-the-morris-constellation",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "recasting-k-nets",
+    "target": "review-of-michael-cuthbert-music21-a-toolkit-for-computer-aided-musicology-httpwebmitedumu",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "review-of-michael-cuthbert-music21-a-toolkit-for-computer-aided-musicology-httpwebmitedumu",
+    "target": "review-essay-on-fred-lerdahls-composition-and-cognition-university-of-california-press-201",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "filleted-mignon-a-new-recipe-for-analysis-and-recomposition",
+    "target": "musical-forces-and-interpretation-some-thoughts-on-a-measure-in-mahler",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "musical-forces-and-interpretation-some-thoughts-on-a-measure-in-mahler",
+    "target": "from-me-to-you-dynamic-discourse-in-popular-music",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "why-are-there-twenty-nine-tetrachords-a-tutorial-on-combinatorics-and-enumeration-in-music",
+    "target": "review-of-dmitri-tymoczko-a-geometry-of-music-harmony-and-counterpoint-in-the-extended-com",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-dmitri-tymoczko-a-geometry-of-music-harmony-and-counterpoint-in-the-extended-com",
+    "target": "how-to-perform-impossible-rhythms",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "glenn-goulds-constant-rhythmic-reference-point-communicating-pulse-in-bachs-goldberg-varia",
+    "target": "ways-of-knowing-the-body-bodily-ways-of-knowing",
+    "type": "lineage",
+    "yearGap": 9
+  },
+  {
+    "source": "review-of-peter-h-smith-expressive-forms-in-brahmss-instrumental-music-structure-and-meani",
+    "target": "review-of-ryan-mcclelland-brahms-and-the-scherzo-studies-in-musical-narrative-surrey-engla",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-ryan-mcclelland-brahms-and-the-scherzo-studies-in-musical-narrative-surrey-engla",
+    "target": "musical-eschatology-in-contemporary-christian-worship-songs",
+    "type": "lineage",
+    "yearGap": 11
+  },
+  {
+    "source": "review-of-christopher-alan-reynolds-motives-for-allusion-context-and-content-in-nineteenth",
+    "target": "riff-schemes-form-and-the-genre-of-early-american-hardcore-punk-197883",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "review-of-ray-allen-and-ellie-m-hisama-eds-ruth-crawford-seegers-worlds-innovation-and-tra",
+    "target": "review-of-pwll-ap-sion-the-music-of-michael-nyman-texts-contexts-and-intertexts-aldershot-",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "aspects-of-the-musictext-relationship-in-rap",
+    "target": "peoples-instinctive-assumptions-and-the-paths-of-narrative-a-response-to-justin-williams",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "peoples-instinctive-assumptions-and-the-paths-of-narrative-a-response-to-justin-williams",
+    "target": "on-the-metrical-techniques-of-flow-in-rap-music",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "on-the-metrical-techniques-of-flow-in-rap-music",
+    "target": "playing-with-beats-and-playing-with-cats-meow-the-jewels-remixes-and-reinterpretations",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "playing-with-beats-and-playing-with-cats-meow-the-jewels-remixes-and-reinterpretations",
+    "target": "harmonic-syntactic-and-motivic-parameters-of-phrase-in-hip-hop",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "augmented-sixth-chords-vs-tritone-substitutes",
+    "target": "introduction",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "introduction",
+    "target": "formal-functions-of-metric-dissonance-in-rock-music",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "formal-functions-of-metric-dissonance-in-rock-music",
+    "target": "conference-report-a-summit-of-creativity-a-celebration-of-the-fiftieth-anniversary-of-the-",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-andrew-dell-antonio-ed-beyond-structural-listening-postmodern-modes-of-hearing-u",
+    "target": "understanding-through-composition-in-post-rock-math-metal-and-other-post-millennial-rock-g",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "metaphors-in-motion-agents-and-representation-in-transformational-analysis",
+    "target": "sarah-setting-the-terms-defining-phrase-in-popular-music",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "sarah-setting-the-terms-defining-phrase-in-popular-music",
+    "target": "review-of-ron-moy-authorship-roles-in-popular-music-issues-and-debates-routledge-2015",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-ron-moy-authorship-roles-in-popular-music-issues-and-debates-routledge-2015",
+    "target": "music-theory-as-social-justice-pedagogical-applications-of-kendrick-lamars-to-pimp-a-butte",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "music-theory-as-social-justice-pedagogical-applications-of-kendrick-lamars-to-pimp-a-butte",
+    "target": "review-of-dylan-robinson-hungry-listening-resonant-theory-for-indigenous-sound-studies-uni",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-dylan-robinson-hungry-listening-resonant-theory-for-indigenous-sound-studies-uni",
+    "target": "the-many-paths-of-decolonization-exploring-colonizing-and-decolonizing-analyses-of-a-tribe",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-michael-cherlin-schoenbergs-musical-imagination-cambridge-cambridge-university-p",
+    "target": "george-walkers-piano-music-traditional-forms-in-tonal-serial-and-atonal-styles",
+    "type": "lineage",
+    "yearGap": 13
+  },
+  {
+    "source": "an-interactive-trichord-space-based-on-measures-1823-of-clermont-pepins-toccate-no-3",
+    "target": "transformational-distance-and-form-in-bergs-schlafend-tragt-man-mich",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-henry-martin-counterpoint-a-species-approach-based-on-schenkers-counterpoint-lan",
+    "target": "review-of-severine-neff-maureen-carr-and-gretchen-horlacher-eds-with-john-reef-the-rite-of",
+    "type": "lineage",
+    "yearGap": 9
+  },
+  {
+    "source": "discrete-fourier-transform-and-bachs-good-temperament",
+    "target": "old-and-new-isometries-between-pc-sets-in-the-planet-4d-model",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "axis-tonality-and-submediant-in-the-music-of-shostakovich",
+    "target": "review-of-paolo-susanni-and-elliott-antokoletz-music-and-twentieth-century-tonality-harmon",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-jeremy-day-oconnell-pentatonicism-from-the-eighteenth-century-to-debussy-rochest",
+    "target": "schenker-and-the-tonal-jazz-repertory-a-response-to-martin",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-jane-piper-clendinning-and-elizabeth-west-marvin-the-musicians-guide-to-theory-a",
+    "target": "review-of-kent-d-cleland-and-mary-dobrea-grindahl-developing-musicianship-through-aural-sk",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "harmonic-stasis-and-oscillation-in-bjorks-medulla",
+    "target": "strophic-modification-in-songs-by-amy-beach",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-matthew-santa-hearing-form-musical-analysis-with-and-without-the-score-new-york-",
+    "target": "thinking-and-singing-in-threes-triple-hypermeter-and-the-songs-of-fanny-hensel",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "thinking-and-singing-in-threes-triple-hypermeter-and-the-songs-of-fanny-hensel",
+    "target": "guest-editors-introduction-the-more-questions-the-better",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "guest-editors-introduction-the-more-questions-the-better",
+    "target": "not-so-far-away",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "not-so-far-away",
+    "target": "prolongational-closure-in-the-lieder-of-fanny-hensel",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "mode-harmony-and-dissonance-treatment-in-american-folk-and-popular-music-c-19201945",
+    "target": "blues-lyric-formulas-in-early-country-music-rhythm-and-blues-and-rock-and-roll",
+    "type": "lineage",
+    "yearGap": 10
+  },
+  {
+    "source": "rhythmic-feel-as-meter-non-isochronous-beat-subdivision-in-jembe-music-from-mali",
+    "target": "timing-and-meter-in-mande-drumming-from-mali",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-the-analysis-and-cognition-of-basic-melodic-structures-and-the-analysis-and-cogn",
+    "target": "review-of-benjamin-wardhaugh-music-experiment-and-mathematics-in-england-16531705-aldersho",
+    "type": "lineage",
+    "yearGap": 15
+  },
+  {
+    "source": "africa-stand-upand-be-counted-among-others",
+    "target": "chasing-the-phantom-features-of-a-supracultural-new-music",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "chasing-the-phantom-features-of-a-supracultural-new-music",
+    "target": "gusti-putu-made-gerias-theory-for-balinese-gamelan",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "review-of-jean-jacques-nattiez-wagner-androgyne-a-study-in-interpretation-princeton-prince",
+    "target": "contemporary-music-theory-and-the-new-musicology-an-introduction",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "contemporary-music-theory-and-the-new-musicology-an-introduction",
+    "target": "music-theory-as-community-a-perspective-from-the-late-90s",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "music-theory-as-community-a-perspective-from-the-late-90s",
+    "target": "ownership-in-music-and-music-theory",
+    "type": "lineage",
+    "yearGap": 13
+  },
+  {
+    "source": "ownership-in-music-and-music-theory",
+    "target": "review-of-thomas-christensen-the-work-of-music-theory-ashgate-2014",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-joseph-swain-musical-languages-new-york-ww-norton-company-1997",
+    "target": "the-cadential-iv-in-rock",
+    "type": "lineage",
+    "yearGap": 12
+  },
+  {
+    "source": "the-cadential-iv-in-rock",
+    "target": "scalar-shift-in-popular-music",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "scalar-shift-in-popular-music",
+    "target": "review-of-carl-schachter-the-art-of-tonal-analysis-twelve-lessons-in-schenkerian-theory-ed",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-carl-schachter-the-art-of-tonal-analysis-twelve-lessons-in-schenkerian-theory-ed",
+    "target": "mediant-mixture-and-blue-notes-in-rock-an-exploratory-study",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "mediant-mixture-and-blue-notes-in-rock-an-exploratory-study",
+    "target": "uniform-information-density-in-music",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "uniform-information-density-in-music",
+    "target": "review-of-matthew-santa-hearing-rhythm-and-meter-analyzing-metrical-consonance-and-dissona",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "duplicated-subdivisions-in-babbitts-it-takes-twelve-to-tango",
+    "target": "review-of-dora-hanninen-a-theory-of-music-analysis-on-segmentation-and-associative-organiz",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "embodying-music-principles-of-the-mimetic-hypothesis",
+    "target": "review-of-steve-larson-musical-forces-motion-metaphor-and-meaning-in-music-bloomington-ind",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "a-tonal-revolution-in-fifths-and-semitones-aaron-coplands-quiet-city",
+    "target": "hipster-harmony-the-hybrid-syntax-of-seventh-chords-in-post-millennial-rock",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "preliminary-response-to-the-mto-02-article",
+    "target": "review-of-yonatan-malin-songs-in-motion-rhythm-and-meter-in-the-german-lied-oxford-univers",
+    "type": "lineage",
+    "yearGap": 18
+  },
+  {
+    "source": "review-of-yonatan-malin-songs-in-motion-rhythm-and-meter-in-the-german-lied-oxford-univers",
+    "target": "a-bevy-of-biases-how-music-theorys-methodological-problems-hinder-diversity-equity-and-inc",
+    "type": "lineage",
+    "yearGap": 11
+  },
+  {
+    "source": "burning-bridges-defining-the-interverse-in-the-music-of-u2",
+    "target": "review-of-allan-moore-song-means-analyzing-and-interpreting-recorded-popular-song-ashgate-",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "on-metaphor-technology-and-schenkerian-analysis",
+    "target": "guitar-voicing-in-pop-rock-music-a-performance-based-analytical-approach",
+    "type": "lineage",
+    "yearGap": 12
+  },
+  {
+    "source": "guitar-voicing-in-pop-rock-music-a-performance-based-analytical-approach",
+    "target": "history-and-future-of-mto-evolving-content-and-design",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "history-and-future-of-mto-evolving-content-and-design",
+    "target": "conference-report-come-together-fifty-years-of-abbey-road",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "form-and-voice-leading-in-early-beatles-songs",
+    "target": "interval-permutations",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "grouping-hierarchy-and-trajectories-of-pacing-in-performances-of-chopins-mazurkas",
+    "target": "lyric-rhythm-and-non-alignment-in-the-second-verse-of-kendrick-lamars-momma",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "review-of-keith-waters-the-studio-recordings-of-the-miles-davis-quintet-196568-oxford-univ",
+    "target": "review-of-judy-lochhead-reconceiving-structure-in-contemporary-music-routledge-2015",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-judy-lochhead-reconceiving-structure-in-contemporary-music-routledge-2015",
+    "target": "time-territorialization-and-improvisational-spaces",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "time-territorialization-and-improvisational-spaces",
+    "target": "translation-of-martha-ulhoa-de-tupinambas-metrica-derramada-musical-prosody-in-brazilian-p",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "review-of-timothy-johnson-john-adamss-nixon-in-china-musical-analysis-historical-and-polit",
+    "target": "mapping-ravels-la-vallee-des-cloches",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "multimedia-for-music-study-on-the-web-director-from-macromedia",
+    "target": "review-of-patricia-hall-bergs-wozzeck-oxford-university-press-2011",
+    "type": "lineage",
+    "yearGap": 15
+  },
+  {
+    "source": "review-of-patricia-hall-bergs-wozzeck-oxford-university-press-2011",
+    "target": "review-of-bryan-r-simms-ed-pro-mundo-pro-domo-the-writings-of-alban-berg-oxford-2014",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "between-romanticism-and-modernism-and-postmodernism-george-crumbs-black-angels",
+    "target": "modal-idioms-and-their-rhetorical-associations-in-rachmaninoffs-works",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-evan-jones-ed-intimate-voices-the-twentieth-century-string-quartet-rochester-uni",
+    "target": "listeners-bodies-in-music-analysis-gestures-motor-intentionality-and-models",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "listeners-bodies-in-music-analysis-gestures-motor-intentionality-and-models",
+    "target": "anne-teresa-de-keersmaekers-violin-phase-and-the-experience-of-time-or-why-does-process-mu",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "review-of-giorgio-sanguinetti-the-art-of-partimento-history-theory-and-practice-oxford-uni",
+    "target": "prelude-on-a-partimento-invention-in-the-compositional-pedagogy-of-the-german-states-in-th",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "charlie-parker-and-honeysuckle-rose-voice-leading-formula-and-motive",
+    "target": "pensieri",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "pensieri",
+    "target": "four-studies-of-charlie-parkers-compositional-processes",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "four-studies-of-charlie-parkers-compositional-processes",
+    "target": "on-the-tonic-added-sixth-chord-in-jazz",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-richard-cohn-audacious-euphony-chromaticism-and-the-triads-second-nature-oxford-",
+    "target": "voice-leading-transformation-and-generative-theories-of-tonal-structure",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "voice-leading-transformation-and-generative-theories-of-tonal-structure",
+    "target": "review-of-emmanuel-amiot-music-through-fourier-space-discrete-fourier-transform-in-music-t",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-michael-tenzer-and-john-roeder-eds-analytical-and-cross-cultural-studies-in-worl",
+    "target": "together-again-but-we-keep-on-crying-buck-owens-tom-brumley-and-the-pedal-steel-guitar-196",
+    "type": "lineage",
+    "yearGap": 7
+  },
+  {
+    "source": "hearing-counterpoint-within-chromaticism-analyzing-harmonic-relationships-in-lassuss-proph",
+    "target": "review-of-ronald-woodley-director-johannes-tinctoris-complete-theoretical-works-httpearlym",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "rethinking-octatonicism-views-from-stravinskys-homeland",
+    "target": "on-the-system-of-stravinskys-harmony-by-yuri-kholopov-translation-and-commentary",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "on-the-system-of-stravinskys-harmony-by-yuri-kholopov-translation-and-commentary",
+    "target": "the-parameter-complex-in-the-music-of-sofia-gubaidulina",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "the-parameter-complex-in-the-music-of-sofia-gubaidulina",
+    "target": "conference-report-inaugural-meeting-of-the-russian-society-for-music-theory-otm",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "conference-report-inaugural-meeting-of-the-russian-society-for-music-theory-otm",
+    "target": "introduction-to-the-symposium-on-kendrick-lamars-to-pimp-a-butterfly",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "introduction-to-the-symposium-on-kendrick-lamars-to-pimp-a-butterfly",
+    "target": "music-theory-and-the-white-racial-frame",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "instrumental-gesture-in-chopins-etude-in-a-flat-major-op-25-no-1",
+    "target": "introduction-agency-and-musical-performance",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "post-structuralism-and-music-theory-a-response-to-adam-krims",
+    "target": "smt-1997-plenary-session-introductory-remarks",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "smt-1997-plenary-session-introductory-remarks",
+    "target": "three-stravinsky-analyses-petrushka-scene-1-to-rehearsal-no-8-the-rakes-progress-act-iii-s",
+    "type": "lineage",
+    "yearGap": 14
+  },
+  {
+    "source": "three-stravinsky-analyses-petrushka-scene-1-to-rehearsal-no-8-the-rakes-progress-act-iii-s",
+    "target": "total-voice-leading",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "total-voice-leading",
+    "target": "the-melodic-organization-of-the-rite-of-spring",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "directional-tonality-in-schumanns-early-works",
+    "target": "review-of-david-damschroder-tonal-analysis-a-schenkerian-perspective-ww-norton-2017",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "songs-for-hands-analyzing-interactions-of-sign-language-and-music",
+    "target": "rhythmic-techniques-in-deaf-hip-hop",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "beyond-homage-and-critique-schuberts-sonata-in-c-minor-d-958-and-beethovens-thirty-two-var",
+    "target": "crossing-over-with-brad-mehldaus-cover-of-radioheads-paranoid-android-the-role-of-jazz-imp",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "crossing-over-with-brad-mehldaus-cover-of-radioheads-paranoid-android-the-role-of-jazz-imp",
+    "target": "review-of-lauri-suurpaa-death-in-winterreise-musico-poetic-associations-in-schuberts-song-",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-lauri-suurpaa-death-in-winterreise-musico-poetic-associations-in-schuberts-song-",
+    "target": "capturing-the-ineffable-three-transcriptions-of-a-jazz-solo-by-sonny-rollins",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-elliott-antokoletz-and-marianne-wheeldon-eds-rethinking-debussy-new-york-oxford-",
+    "target": "improvisation-analysis-and-listening-otherwise",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "conference-report-performance-studies-network-second-international-conference",
+    "target": "performance-and-analysis-today-new-horizons",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-godfried-toussaint-the-geometry-of-musical-rhythm-what-makes-a-good-rhythm-good-",
+    "target": "meter-metrics-characterizing-relationships-among-mixed-metrical-structures",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "metal-as-a-gradual-process-additive-rhythmic-structures-in-the-music-of-dream-theater",
+    "target": "conference-report-pedagogy-into-practice-teaching-music-theory-in-the-twenty-first-century",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "improvisational-fictions",
+    "target": "talking-back-performer-audience-interaction-in-roscoe-mitchells-nonaah",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "mashing-toward-a-typology-of-recycled-music",
+    "target": "gendered-power-relationships-in-mashups",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "sentential-lyric-types-in-the-great-american-songbook",
+    "target": "teaching-and-learning-undergraduate-music-theory-at-the-keyboard-challenges-solutions-and-",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "to-mooc-or-not-to-mooc",
+    "target": "review-of-robert-freeman-the-crisis-of-classical-music-in-america-lessons-from-the-life-in",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "a-foreign-sound-to-your-ear-bob-dylan-performs-its-alright-ma-im-only-bleeding-19642009",
+    "target": "musics-stubborn-enchantments-and-music-theorys",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-william-caplin-analyzing-classical-form-an-approach-for-the-classroom-oxford-uni",
+    "target": "billy-joels-enharmonic-duplicity",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "issues-in-the-study-of-similarity-in-atonal-music",
+    "target": "mto-at-the-leading-edge",
+    "type": "lineage",
+    "yearGap": 18
+  },
+  {
+    "source": "conlon-nancarrow-hot-jazz-and-the-principle-of-collective-improvisation",
+    "target": "text-and-temporality-toward-an-understanding-of-rhythmic-irregularities-in-the-music-of-to",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "introduction-to-the-mto-nancarrow-symposium",
+    "target": "review-of-jurgen-hocker-encounters-with-conlon-nancarrow-translated-by-steven-lindberg-lex",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-jurgen-hocker-encounters-with-conlon-nancarrow-translated-by-steven-lindberg-lex",
+    "target": "the-editing-and-arrangement-of-conlon-nancarrows-studies-for-disklavier-and-synthesizers",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-s-alexander-reed-assimilate-a-critical-history-of-industrial-music-oxford-2013",
+    "target": "what-happens-after-the-primal-burn-dissonance-in-sonic-youths-middle-period",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "what-happens-after-the-primal-burn-dissonance-in-sonic-youths-middle-period",
+    "target": "review-of-david-temperley-the-musical-language-of-rock-oxford-university-press-2018",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "musical-form-mapping-the-territories-a-conference-report",
+    "target": "performers-as-creative-agents-or-musicians-just-want-to-have-fun",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "performers-as-creative-agents-or-musicians-just-want-to-have-fun",
+    "target": "koch-carpani-and-momigny-theorists-of-agency-in-the-classical-string-quartet",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "a-review-of-the-humdrum-toolkit-unix-tools-for-musical-research-created-by-david-huron",
+    "target": "genus-species-and-mode-in-vicentinos-31-tone-compositional-theory",
+    "type": "lineage",
+    "yearGap": 18
+  },
+  {
+    "source": "the-concept-of-mutability-in-russian-theory",
+    "target": "canons-as-hypermetrical-transitions-in-mozart",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "introduction-russian-theoretical-thought-rediscovered-and-reevaluated",
+    "target": "the-expansion-of-the-concept-of-mode-in-twentieth-century-russian-music-theory",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "the-expansion-of-the-concept-of-mode-in-twentieth-century-russian-music-theory",
+    "target": "scriabins-atonal-problem",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "scriabins-atonal-problem",
+    "target": "an-octatonic-history-of-prokofievs-compositional-oeuvre",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "an-octatonic-history-of-prokofievs-compositional-oeuvre",
+    "target": "introduction-prokofiev-at-125",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "sergei-taneevs-vertical-shifting-counterpoint-an-introduction",
+    "target": "prokofievs-symphony-no-2-yuri-kholopov-and-the-theory-of-twelve-tone-chords",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "on-the-function-of-function",
+    "target": "on-performing-chopins-barcarolle",
+    "type": "lineage",
+    "yearGap": 19
+  },
+  {
+    "source": "review-of-david-beach-advanced-schenkerian-analysis-perspectives-on-phrase-rhythm-motive-a",
+    "target": "report-on-the-second-congress-of-the-russian-society-for-the-theory-of-music",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-brian-kane-sound-unseen-acousmatic-sound-in-theory-and-practice-oxford-2014",
+    "target": "encoding-post-spectral-sound-kaija-saariahos-early-electronic-music-at-ircam-198287",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "review-of-joe-mulholland-and-tom-hojnacki-the-berklee-book-of-jazz-harmony-berklee-press-2",
+    "target": "on-duration-and-developing-variation-the-intersecting-ideologies-of-henri-bergson-and-arno",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "on-duration-and-developing-variation-the-intersecting-ideologies-of-henri-bergson-and-arno",
+    "target": "late-night-thoughts-on-listening-to-schoenbergs-klavierstuck-op-33a",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "schenkerian-schoenbergian-analysis-and-hidden-repetition-in-the-opening-movement-of-beetho",
+    "target": "away-with-motivic-working-not-so-fast-motivic-processes-in-schoenbergs-op-11-no-3",
+    "type": "lineage",
+    "yearGap": 16
+  },
+  {
+    "source": "towards-a-galant-pedagogy-partimenti-and-schemata-as-tools-in-the-pedagogy-of-eighteenth-c",
+    "target": "review-of-massimiliano-guido-ed-studies-in-historical-improvisation-from-cantare-super-lib",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-massimiliano-guido-ed-studies-in-historical-improvisation-from-cantare-super-lib",
+    "target": "reimagining-historical-improvisation-an-analysis-of-robert-levins-fantasy-on-themes-by-w-a",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "reimagining-historical-improvisation-an-analysis-of-robert-levins-fantasy-on-themes-by-w-a",
+    "target": "melodic-organization-and-sequential-ordering-of-galant-schemata-implications-for-eighteent",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-daniel-kazez-rhythm-reading-elementary-through-advanced-training-2nd-ed-new-york",
+    "target": "review-of-markus-neuwirth-and-pieter-berge-eds-what-is-a-cadence-theoretical-and-analytica",
+    "type": "lineage",
+    "yearGap": 18
+  },
+  {
+    "source": "contour-recursion-and-auto-segmentation",
+    "target": "onset-and-contiguity-melodic-feature-reduction-and-pattern-discovery",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-ralf-von-appen-andre-doehring-dietrich-helms-and-allan-moore-eds-song-interpreta",
+    "target": "measuring-a-measure-absolute-time-as-a-factor-for-determining-bar-lengths-and-meter-in-pop",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "measuring-a-measure-absolute-time-as-a-factor-for-determining-bar-lengths-and-meter-in-pop",
+    "target": "embracing-ambiguity-in-the-analysis-of-form-in-poprock-music-19821991",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "embracing-ambiguity-in-the-analysis-of-form-in-poprock-music-19821991",
+    "target": "review-of-christopher-doll-hearing-harmony-toward-a-tonal-theory-for-the-rock-era-universi",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-christopher-doll-hearing-harmony-toward-a-tonal-theory-for-the-rock-era-universi",
+    "target": "the-logic-of-six-based-minor-for-harmonic-analyses-of-popular-music",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "the-logic-of-six-based-minor-for-harmonic-analyses-of-popular-music",
+    "target": "some-proposed-enhancements-to-the-operationalization-of-prominence-commentary-on-michele-d",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "film-music-themes-analysis-and-corpus-study",
+    "target": "tonal-ambiguity-in-popular-musics-axis-progressions",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "music-theorys-new-pedagogability",
+    "target": "a-platonic-model-of-funky-rhythms",
+    "type": "lineage",
+    "yearGap": 18
+  },
+  {
+    "source": "review-of-ruth-i-deford-tactus-mensuration-and-rhythm-in-renaissance-music-cambridge-unive",
+    "target": "reassessing-the-plagal-cadence-in-byrd-and-morley",
+    "type": "lineage",
+    "yearGap": 6
+  },
+  {
+    "source": "perceiving-irony-in-music-the-problem-in-beethovens-string-quartets",
+    "target": "a-survey-of-the-impact-of-covid-19-on-music-theorists",
+    "type": "lineage",
+    "yearGap": 8
+  },
+  {
+    "source": "inwardness-and-inner-melodies-in-brahmss-piano-works",
+    "target": "romantic-periods",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "subjective-repositioning-in-musical-improvisation-analyzing-the-work-of-five-female-improv",
+    "target": "review-of-leslie-a-tilley-making-it-up-together-the-art-of-collective-improvisation-in-bal",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "you-too-can-compose-ruth-crawfords-mentoring-of-vivian-fine",
+    "target": "music-theory-for-the-weaker-sex-oliveria-prescotts-columns-for-the-girls-own-paper",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "a-tale-of-three-schenkers-analysis-piano-pedagogy-and-performance-of-the-chopin-berceuse-o",
+    "target": "i-got-a-bone-to-pick-formal-ambivalence-and-double-consciousness-in-kendrick-lamars-king-k",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-lorraine-byrne-bodley-and-julian-horton-eds-rethinking-schubert-oxford-universit",
+    "target": "recapitulatory-compressions-in-some-texted-and-instrumental-works-by-schubert",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "what-can-they-have-to-do-with-one-another-approaches-to-analysis-and-performance-in-john-c",
+    "target": "performing-open-form-a-case-study-with-earle-browns-novara",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "changing-content-in-flagship-music-theory-journals-19792014",
+    "target": "plateau-loops-and-hybrid-tonics-in-recent-pop-music",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "plateau-loops-and-hybrid-tonics-in-recent-pop-music",
+    "target": "rebonds-structural-affordances-negotiation-and-creation",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "rebonds-structural-affordances-negotiation-and-creation",
+    "target": "conference-report-dialogues-analysis-and-performance",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-laurel-parsons-and-brenda-ravenscroft-eds-analytical-essays-on-music-by-women-co",
+    "target": "gender-identity-and-gestural-representations-in-jonathan-harveys-string-quartet-no-2",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "review-of-musical-poetics-by-joachim-burmeister-translated-with-introduction-and-notes-by-",
+    "target": "thomas-campions-chordal-counterpoint-and-talliss-famous-forty-part-motet",
+    "type": "lineage",
+    "yearGap": 23
+  },
+  {
+    "source": "review-of-the-cambridge-companion-to-the-singer-songwriter-ed-katherine-williams-and-justi",
+    "target": "buffy-sainte-maries-self-expressive-voice",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "reciprocal-interpretations-of-music-and-painting-representation-types-in-schuller-tan-and-",
+    "target": "review-of-rethinking-reich-edited-by-sumanth-gopinath-and-pwyll-ap-sion-oxford-university-",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-rethinking-reich-edited-by-sumanth-gopinath-and-pwyll-ap-sion-oxford-university-",
+    "target": "schoenbergs-cinematographic-blueprint-a-programmatic-analysis-of-begleitungsmusik-zu-einer",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "so-complete-in-beautiful-deformity-unexpected-beginnings-and-rotated-riffs-in-meshuggahs-o",
+    "target": "performing-analysis-performing-metal-meshuggah-edvard-hansson-and-the-analytical-light-sho",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "theories-of-categorization-and-theories-of-music",
+    "target": "response-to-robison-category-structures-and-fuzzy-sets",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "response-to-robison-category-structures-and-fuzzy-sets",
+    "target": "metaphor-and-music-theory-reflections-from-cognitive-science",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "metaphor-and-music-theory-reflections-from-cognitive-science",
+    "target": "performing-agency-a-response",
+    "type": "lineage",
+    "yearGap": 20
+  },
+  {
+    "source": "conditional-asymmetry-and-spontaneous-asymmetry-of-harmonic-progressions-the-changing-stat",
+    "target": "european-perspectives-on-recent-tonal-theories-their-models-and-analytical-tools",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "harmony-in-elliott-carters-late-music",
+    "target": "review-of-elliott-carter-speaks-unpublished-lectures-edited-and-with-an-introduction-by-la",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "guide-tone-space-navigating-voice-leading-syntax-in-tonal-jazz",
+    "target": "referents-in-the-palimpsests-of-jazz-disentangling-theme-from-improvisation-in-recordings-",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "review-of-lori-burns-and-serge-lacasse-eds-the-pop-palimpsest-intertextuality-in-recorded-",
+    "target": "codetta-and-anthem-postchorus-types-in-top-40-pop-from-2010-to-2015",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "beyond-mere-novelty-timbre-as-primary-structural-marker-in-ravels-piano-concerto-in-g-majo",
+    "target": "ravels-sound-timbre-and-orchestration-in-his-late-works",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "some-disassembly-required-modularity-in-the-keyboard-improvisation-pedagogy-of-jacob-adlun",
+    "target": "harmonizing-chorales-systematically-a-translation-of-g-h-stolzels-kurzer-und-grundlicher-u",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "retrospective-time-and-the-subdominant-past-tonal-hermeneutics-in-contemporary-broadway-me",
+    "target": "cadential-melodies-form-functional-taxonomy-and-the-role-of-the-upper-voice",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "consonance-dissonance-and-formal-proportions-in-two-works-by-sofia-gubaidulina",
+    "target": "review-of-amy-cimini-wild-sound-maryanne-amacher-and-the-tenses-of-audible-life-oxford-uni",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "climax-building-in-verismo-opera-archetype-and-variants",
+    "target": "rotational-principle-as-teleological-genesis-in-the-annunciation-of-death-scene-from-wagne",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "instrumental-transformations-in-heinrich-bibers-mystery-sonatas",
+    "target": "review-of-john-paul-ito-focal-impulse-theory-musical-expression-meter-and-the-body-indiana",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "analyzing-schoenbergs-war-compositions-as-satire-and-sincerity-a-comparative-analysis-of-o",
+    "target": "at-one-end-of-the-endless-universe-akira-nishimuras-interview-with-isang-yun",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "shaping-form-performances-as-analyses-of-cyclic-macroform-in-arnold-schoenbergs-sechs-klei",
+    "target": "reimagining-formal-functions-in-post-tonal-music-temporality-in-the-semanticized-form-of-s",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "goulds-creaking-chair-schoenbergs-metric-clarity",
+    "target": "the-pen-as-camera-finnissy-and-overexposure",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-the-oxford-handbook-of-critical-concepts-in-music-theory-edited-by-alexander-reh",
+    "target": "flexible-ostinati-groove-and-formal-process-in-craig-taborns-avenging-angel",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "flexible-ostinati-groove-and-formal-process-in-craig-taborns-avenging-angel",
+    "target": "gestural-temporality-in-sciarrinos-recitativo-oscuro",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "cantopop-and-speech-melody-complex",
+    "target": "introduction-music-theory-in-the-plural",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "introduction-music-theory-in-the-plural",
+    "target": "music-as-language-of-the-upper-realm-a-translation-of-li-tsing-chus-a-general-treatise-on-",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "melody-on-the-threshold-in-spectral-music",
+    "target": "kaleidoscopic-topics-in-the-music-of-gyorgy-ligeti-and-thomas-ades",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "review-of-malawey-victoria-a-blaze-of-light-in-every-word-analyzing-the-popular-singing-vo",
+    "target": "analyzing-vocal-placement-in-recorded-virtual-space",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "analyzing-vocal-placement-in-recorded-virtual-space",
+    "target": "response-to-trevor-de-clercqs-some-proposed-enhancements-to-the-operationalization-of-prom",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "archival-research-in-music-new-materials-methods-and-arguments",
+    "target": "material-connections-bruce-goff-music-and-modernism-across-the-arts",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-drew-nobile-form-as-harmony-in-rock-music-oxford-university-press-2020",
+    "target": "vocal-production-mimesis-and-social-media-in-bedroom-pop",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "klangfarbenmelodie-in-1911-timbres-functional-roles-in-weberns-opp-9-and-10",
+    "target": "klangfarbenmelodie-chromophony-and-timbral-function-in-arnold-schoenbergs-farben",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "becoming-and-disintegration-in-wolfgang-rihms-fifth-string-quartet-ohne-titel",
+    "target": "chromatic-function-in-schoenbergs-little-piano-piece-op-19-no-1",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "teleology-in-verseprechoruschorus-form-19652020",
+    "target": "alanis-morissettes-voices",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "analyzing-the-beat-in-metrically-consonant-popular-songs-a-multifaceted-approach",
+    "target": "formal-functions-of-drum-patterns-in-post-millennial-pop-songs-20122021",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "extending-the-parallel-multiple-analysis-processor-perceived-meter-in-post-tonal-music",
+    "target": "performing-meter-toward-a-motive-oriented-performance-practice-for-post-tonal-music",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "beethovens-op-81a-and-the-psychology-of-loss",
+    "target": "the-bridges-that-never-were-schenker-on-the-contrapuntal-origin-of-the-triad-and-seventh-c",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "the-bridges-that-never-were-schenker-on-the-contrapuntal-origin-of-the-triad-and-seventh-c",
+    "target": "aus-mozart-gestohlen-beethoven-and-die-entfuhrung-aus-dem-serail",
+    "type": "lineage",
+    "yearGap": 26
+  },
+  {
+    "source": "review-of-philip-ewell-on-music-theory-and-making-music-more-welcoming-for-everyone-univer",
+    "target": "commentary-music-theory-nationalism-and-the-invention-of-bulgarian-rhythm",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "commentary-on-neumeyers-mto-01-article",
+    "target": "commentary-on-justin-londons-mto-02-article",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "loud-rests-and-other-strange-metric-phenomena-or-meter-as-heard",
+    "target": "misreading-meyer-a-reply-to-cochrane",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "misreading-meyer-a-reply-to-cochrane",
+    "target": "a-different-response-to-killam",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "commentary-on-neumeyers-mto-01-essay",
+    "target": "comment-on-john-roeders-article",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "comment-on-john-roeders-article",
+    "target": "mathematical-logic-response-to-jay-rahn",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "commentary-on-justin-londons-mto-02-article",
+    "target": "how-theorists-relate-to-musicians",
+    "type": "lineage",
+    "yearGap": 5
+  },
+  {
+    "source": "commentary-on-justin-londons-mto-02-article",
+    "target": "review-of-the-1993-conference-of-the-society-for-music-perception-and-cognition",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-the-1993-conference-of-the-society-for-music-perception-and-cognition",
+    "target": "response-to-demske-relating-sets",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "commentary-on-justin-londons-mto-02-article",
+    "target": "computers-compose-music-but-do-we-listen",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "computers-compose-music-but-do-we-listen",
+    "target": "musical-objects-response-to-john-covach",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "musical-objects-response-to-john-covach",
+    "target": "book-review-robert-cogan-new-images-of-musical-sound-harvard-university-press-1984",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "grazyna-bacewiczs-second-piano-sonata-1953-octave-expansion-and-sonata-form",
+    "target": "publishing-and-pedagogy-using-multimedia-on-the-world-wide-web",
+    "type": "lineage",
+    "yearGap": 4
+  },
+  {
+    "source": "modifying-interval-class-vectors-of-large-collections-to-reflect-registral-proximity-among",
+    "target": "category-structures-and-fuzzy-sets",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "destructuring-cartesian-dualism-in-musical-analysis",
+    "target": "musical-worlds-and-the-metaphysics-of-analysis-response-to-cochrane-and-smoliar",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "musical-worlds-and-the-metaphysics-of-analysis-response-to-cochrane-and-smoliar",
+    "target": "schoenbergs-turn-to-an-other-world",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "code-and-context-a-commentary-on-roeders-article",
+    "target": "the-silence-of-the-frames",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "feminist-music-theoriesprocess-and-continua",
+    "target": "cognitive-dissonance-should-twentieth-century-women-composers-be-grouped-with-foucaults-ma",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "cognitive-dissonance-should-twentieth-century-women-composers-be-grouped-with-foucaults-ma",
+    "target": "response-to-professor-morses-open-letter",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "on-considering-a-computational-model-of-similarity-analysis",
+    "target": "response-to-parncutt",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "towards-a-new-analytic-method-for-post-tonal-music-a-response-to-thomas-r-demske",
+    "target": "reflexive-postmodern-anthropology-meets-musical-modernism-georgina-borns-rationalizing-cul",
+    "type": "lineage",
+    "yearGap": 2
+  },
+  {
+    "source": "review-of-john-cage-symposium-berlin-german-november-2325",
+    "target": "review-of-the-beginnings-of-serial-music-berlin-germany-june-2025-1996",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "more-on-handel-and-the-hemiola-overlapping-hemiolas",
+    "target": "handel-the-sarabande-and-levels-of-genre-a-reply-to-david-schulenberg",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "report-from-the-three-seminars-on-contemporary-music-with-connection-to-the-iscm-world-mus",
+    "target": "report-from-the-third-triennial-escom-conference-in-uppsala-sweden-712-june-1997",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "report-from-the-third-triennial-escom-conference-in-uppsala-sweden-712-june-1997",
+    "target": "report-from-the-skagerack-network-analysis-workshop-at-lyseby-conference-center-in-oslo-no",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "review-of-peter-castines-set-theory-objects-abstractions-for-computer-aided-analysis-and-c",
+    "target": "review-of-eleanor-selfridge-field-beyond-midi-the-handbook-of-musical-codes-cambridge-mass",
+    "type": "lineage",
+    "yearGap": 3
+  },
+  {
+    "source": "white-note-fantasy",
+    "target": "white-note-fantasy-part-ii",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "music-theory-in-greece",
+    "target": "report-on-the-first-symposium-on-computer-and-music-in-corfu-greece-2325-october-1998",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "celibidache-and-bruckner",
+    "target": "hans-rott-18581884the-missing-link-between-bruckner-and-mahler",
+    "type": "lineage",
+    "yearGap": 1
+  },
+  {
+    "source": "hans-rott-18581884the-missing-link-between-bruckner-and-mahler",
+    "target": "review-of-zbigniew-preisner-requiem-for-my-friend",
+    "type": "lineage",
+    "yearGap": 1
+  }
+]
