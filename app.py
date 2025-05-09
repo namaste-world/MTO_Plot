@@ -71,7 +71,7 @@ app.layout = html.Div(style={'display':'flex','height':'100vh'}, children=[
 def update_graph(clickData, selected_type, search_term, reset_clicks, showall_clicks):
     trigger = ctx.triggered_id
 
-    # determine which edges and nodes to show
+    
     if trigger == 'reset-button':
         curr_edges, plot_df = [], nodes_df
     elif trigger == 'showall-button':
@@ -92,10 +92,10 @@ def update_graph(clickData, selected_type, search_term, reset_clicks, showall_cl
     else:
         curr_edges, plot_df = [], nodes_df
 
-    # build base figure
+   
     fig = go.Figure()
 
-    # 1) assemble edge‐shapes (always rendered below traces)
+    
     shapes = []
     for e in curr_edges:
         et    = e['type'].lower()
@@ -115,10 +115,10 @@ def update_graph(clickData, selected_type, search_term, reset_clicks, showall_cl
             x0=src['date'], y0=src['y'],
             x1=tgt['date'], y1=tgt['y'],
             line=dict(color=color, width=width, dash=dash),
-            layer='below'   # ensure edges are beneath all data traces
+            layer='below'   
         ))
 
-    # 2) update layout with shapes + axis, margins, etc.
+    
     fig.update_layout(
         shapes=shapes,
         dragmode="zoom",
@@ -131,7 +131,7 @@ def update_graph(clickData, selected_type, search_term, reset_clicks, showall_cl
         margin=dict(l=40, r=40, t=80, b=40)
     )
 
-    # 3) compute node colors (for search highlighting)
+    
     term = (search_term or '').lower()
     colors = [
         'orange' if term and term in (row.title.lower() + " " + " ".join(row.authors).lower())
@@ -139,13 +139,13 @@ def update_graph(clickData, selected_type, search_term, reset_clicks, showall_cl
         for row in plot_df.itertuples()
     ]
 
-    # 4) build hover texts
+    
     hover_texts = [
         f"{row.title}<br>{', '.join(row.authors)}"
         for row in plot_df.itertuples()
     ]
 
-    # 5) add a single WebGL scatter of nodes on top
+    
     fig.add_trace(go.Scattergl(
         x=plot_df['date'],
         y=plot_df['y'],
@@ -169,23 +169,23 @@ def update_graph(clickData, selected_type, search_term, reset_clicks, showall_cl
 )
 def show_hover(hoverData, _reset, _showall):
     trig = ctx.triggered_id
-    # If they just hit reset or show-all, clear the info box
+    
     if trig in ('reset-button', 'showall-button'):
         return ""
 
-    # If there’s no hover point, or hoverData is malformed, do nothing
+    
     if not hoverData or 'points' not in hoverData:
         return ""
 
-    # Grab the customdata (node ID) from the first hovered point
+   
     nid = hoverData['points'][0].get('customdata')
     if not nid:
         return ""
 
-    # Look up that node in your dataframe
+    
     row = nodes_df[nodes_df['id'] == nid].iloc[0]
 
-    # Build the Div to show title and authors
+
     info_div = html.Div([
         html.B(row['title']),
         html.Div(f"Authors: {', '.join(row['authors'])}")
